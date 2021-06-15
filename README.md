@@ -16,5 +16,5 @@ The data are provided as a zip-compressed text file with 26 columns of numbers, 
 5)	operational setting 3
 6)	sensor measurement  1
 7)	sensor measurement  2
-...
+.....
 26)	sensor measurement  26
